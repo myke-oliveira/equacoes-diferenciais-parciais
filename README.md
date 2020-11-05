@@ -33,3 +33,7 @@ Esta equação representa uma onda que se propaga no espaço
 $$
 \nabla^2 u = \alpha u_{tt}
 $$
+
+# Projeto de Estudos
+
+Durante as aulas, foi feito um projeto de estudos, [clique aqui](./artigo/main3.pdf) para acessar.
